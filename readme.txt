@@ -4,3 +4,4 @@ Git is free software.
 go on study
 
 branches ?
+提交没有切换到分支！！需要使用什么命令切换到分支？
