@@ -13,4 +13,5 @@ git branch dev
 git checkout dev---conflict this line fixed
 
 分支管理策略？
+git add readme.txt & git commit -m 可以一次提交
 
