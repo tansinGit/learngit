@@ -12,3 +12,5 @@ git branch dev
 
 git checkout dev---conflict this line fixed
 
+分支管理策略？
+
